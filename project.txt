@@ -1,0 +1,3 @@
+1 Create git repo on github and clone it on Local
+2 Create mycode.py and create a dataframe and save it into a directory
+3 Do git add-commit-push before initializing dvc
