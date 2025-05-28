@@ -4,6 +4,7 @@ import os
 my_di = {
     "name": ["Sahil", "Kumar", "Jay"],
     "age": [23, 24, 23],
+    "salary": [10000, 20000, 30000],
 }
 df = pd.DataFrame(my_di)
 
